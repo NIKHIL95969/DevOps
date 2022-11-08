@@ -1,0 +1,14 @@
+git push 
+git pull
+git stash
+git remove 
+git remove -f  == force to remove
+git commit -a 
+git status     == to check the status
+git merge 
+git restore
+git reset
+git config -global user.name
+git config -global user.email
+
+

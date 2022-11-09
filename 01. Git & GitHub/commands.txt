@@ -10,5 +10,11 @@ git restore
 git reset
 git config -global user.name
 git config -global user.email
+git branch
+git branch <branch name>
+git branch -d <branch name>
+git stash
+git checkout
+git checkout <branch name>
 
 

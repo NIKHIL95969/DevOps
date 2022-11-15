@@ -1,4 +1,4 @@
-git push 
+git push      // upload code on github
 git pull
 git stash
 git remove 

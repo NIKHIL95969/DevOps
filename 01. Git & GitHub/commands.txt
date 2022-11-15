@@ -17,4 +17,10 @@ git stash
 git checkout
 git checkout <branch name>
 
+rm -rf <name-of-folder>       /// To delete folder/directory
+rm -f <file-name>             /// to delete file
+
+g++ <file-name.type> -o <any-name-of-compile-file>
+./<any-name-of-compile-file>
+
 
